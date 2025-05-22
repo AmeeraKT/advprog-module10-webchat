@@ -11,5 +11,5 @@
 ![Yewchat UI Color](static/images/yewchat1.jpg)
 I changed the color of the UI from grey to yellow to make it look more lively.
 
-![Yewchat UI BG](static/images/yewchat 2.jpg)
+![Yewchat UI BG](static/images/yewchat2.jpg)
 To add a pop of color that contrasts the yellow, I added a sky image in the background of the chat frame.
